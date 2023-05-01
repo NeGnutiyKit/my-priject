@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efa9ad98-84c7-4ea3-bfc3-337fc1291d20" name="Changes" comment="chipsy">
-      <change beforePath="$PROJECT_DIR$/gggggg" beforeDir="false" afterPath="$PROJECT_DIR$/gggggg" afterDir="false" />
-    </list>
+    <list default="true" id="efa9ad98-84c7-4ea3-bfc3-337fc1291d20" name="Changes" comment="удаленнннннннн" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +115,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682871669308</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="іфрваргфівга">
+      <created>1682929115067</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682929115067</updated>
+    </task>
+    <task id="LOCAL-00003" summary="удаленнннннннн">
+      <created>1682929480020</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682929480020</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +157,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chipsy" />
-    <option name="LAST_COMMIT_MESSAGE" value="chipsy" />
+    <MESSAGE value="іфрваргфівга" />
+    <MESSAGE value="удаленнннннннн" />
+    <option name="LAST_COMMIT_MESSAGE" value="удаленнннннннн" />
   </component>
 </project>
